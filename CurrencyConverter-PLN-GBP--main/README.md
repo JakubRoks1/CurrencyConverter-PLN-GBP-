@@ -1,0 +1,1 @@
+# CurrencyConverter-PLN-GBP-
